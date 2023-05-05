@@ -1,2 +1,2 @@
 # MyProjects
-Projects I've worked on
+These are the projects I worked on to achieve my Post Graduate Certificate in Data Science and Business Analytics from the McCombs School of Business, University of Texas at Austin/Great Learning
